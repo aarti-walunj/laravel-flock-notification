@@ -314,7 +314,7 @@ If you discover any security related issues, please email vaibhavraj.developer@g
 
 ## Contributing
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) for more information about contributors.
+Please see [CONTRIBUTING](CONTRIBUTING.md) for more information about code contributors.
 
 ## Credits
 
